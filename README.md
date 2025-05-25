@@ -16,7 +16,7 @@
 
 ### 🐱‍👤Навыки и стек
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-4.x-3178c6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-18-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -33,7 +33,7 @@
 
 ### 🐣 Начальные знания
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -51,7 +51,7 @@
 <span style="color:#e9a1bd"><em>Активно ищу первую позицию.</em></span>  
 Готова учиться, развиваться и работать в команде над реальными продуктами.
 
---
+---
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > <span style="color:#e9a1bd">— Barbara Liskov</span>
