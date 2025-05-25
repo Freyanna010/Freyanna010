@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center" style="color:#60c5ba;">Привет! Я Аня, фронтенд-разработчица</h1>
 
-<!--
-**Freyanna010/Freyanna010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🦄Учусь и развиваюсь в направлении фронтенда. Собираю интерфейсы с заботой о пользователе и интересом к качественному коду🦄
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💼 Ищу позицию <span style="color:#e9a1bd">Junior Frontend Developer</span>
+
+- 💡 Увлекаюсь созданием удобных и красивых интерфейсов  
+- 🚀 Пишу на <strong style="color:#60c5ba;">React</strong>, <strong style="color:#60c5ba;">TypeScript</strong>  
+- 🎨 Интересуюсь UI-анимацией  
+- 🗿 Изучаю архитектуру фронтенда, патерны и принципы <span style="color:#e9a1bd;">чистого кода</span>  
+- 🎯 Хочу расти в командной разработке и делать полезные продукты  
+
+---
+
+### 🐱‍👤Навыки и стек
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-4.x-3178c6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-ff9955?style=flat&logo=mobx&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-cc6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-ff7262?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🐣 Начальные знания
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</div>
+
+---
+
+### 📮 Контакты
+
+- Telegram: [@annetlo](https://t.me/annetlo)
+- Email: [socevilaf@gmail.com](mailto:socevilaf@gmail.com)
+
+---
+
+<span style="color:#e9a1bd"><em>Активно ищу первую позицию.</em></span>  
+Готова учиться, развиваться и работать в команде над реальными продуктами.
+
 -->
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> <span style="color:#e9a1bd">— Barbara Liskov</span>
+
+> “If you can’t explain what your program is doing, you’re not ready to make the computer do it.”  
+> <span style="color:#60c5ba">— Kathleen Booth</span>
+
+
+---
