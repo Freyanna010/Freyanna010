@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MobX-ff9955?style=flat&logo=mobx&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-cc6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-ff7262?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
