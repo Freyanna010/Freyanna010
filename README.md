@@ -53,10 +53,10 @@
 
 ---
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+><em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em> 
 > <span style="color:#e9a1bd">— Barbara Liskov</span>
 
-> “If you can’t explain what your program is doing, you’re not ready to make the computer do it.”  
+> <em>“If you can’t explain what your program is doing, you’re not ready to make the computer do it.”</em>   
 > <span style="color:#60c5ba">— Kathleen Booth</span>
 
 
