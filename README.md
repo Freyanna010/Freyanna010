@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  <img src="[https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript&logoColor=black](https://github.com/Freyanna010/Freyanna010/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png?raw=true)" />
+</div>
+
 <h1 align="center" style="color:#60c5ba;">Привет! Я Аня, фронтенд-разработчица</h1>
 
 <p align="center">
