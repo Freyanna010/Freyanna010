@@ -51,6 +51,10 @@
 - Telegram: [@annetlo](https://t.me/annetlo)
 - Email: [socevilaf@gmail.com](mailto:socevilaf@gmail.com)
 
+<div align="center">
+  <img src="https://github.com/Freyanna010/Freyanna010/blob/main/cat.png?raw=true" />
+</div>
+
 ---
 
 ><em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em> 
