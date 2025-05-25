@@ -55,13 +55,12 @@
   <img src="https://github.com/Freyanna010/Freyanna010/blob/main/cat.png?raw=true" />
 </div>
 
----
+
 
 ><em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em> 
 > <span style="color:#e9a1bd">— Barbara Liskov</span>
 
+
 > <em>“If you can’t explain what your program is doing, you’re not ready to make the computer do it.”</em>   
 > <span style="color:#60c5ba">— Kathleen Booth</span>
 
-
----
