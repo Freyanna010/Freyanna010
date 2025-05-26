@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Freyanna010/Freyanna010/blob/main/cat.png?raw=true" />
+  <img src="https://github.com/Freyanna010/Freyanna010/blob/main/catDev.png?raw=true" />
 </div>
 
 
