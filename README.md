@@ -68,4 +68,3 @@
 > <em>“If you can’t explain what your program is doing, you’re not ready to make the computer do it.”</em>   
 > <span style="color:#60c5ba">— Kathleen Booth</span>
 
-](url)
