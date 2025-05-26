@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Figma-ff7262?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntDesign-UI-blue?style=flat&logo=ant-design&logoColor=white" />
 </div>
 
 ---
