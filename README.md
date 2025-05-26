@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-
+  <img src="https://img.shields.io/badge/REST_API-FF6C00?style=for-the-badge&logo=api&logoColor=white" />
+ <img src="https://img.shields.io/badge/SOLID_Principles-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </div>
 
 ---
