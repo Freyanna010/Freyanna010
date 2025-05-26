@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Freyanna010/Freyanna010/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png?raw=true" />
+  <img src="https://github.com/Freyanna010/Freyanna010/blob/main/git-title.png?raw=true" />
 </div>
 
 <h1 align="center" style="color:#60c5ba;">Привет! Я Анна, фронтенд-разработчица</h1>
