@@ -1,4 +1,4 @@
-
+[
 
 <div align="center">
   <img src="https://github.com/Freyanna010/Freyanna010/blob/main/git-title.png?raw=true" />
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-tested-red?style=flat&logo=jest&logoColor=white" />
 </div>
 
 ---
@@ -66,3 +67,4 @@
 > <em>“If you can’t explain what your program is doing, you’re not ready to make the computer do it.”</em>   
 > <span style="color:#60c5ba">— Kathleen Booth</span>
 
+](url)
