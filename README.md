@@ -1,4 +1,4 @@
-[
+
 
 <div align="center">
   <img src="https://github.com/Freyanna010/Freyanna010/blob/main/git-title.png?raw=true" />
