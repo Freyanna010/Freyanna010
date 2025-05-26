@@ -1,4 +1,4 @@
-[
+
 
 <div align="center">
   <img src="https://github.com/Freyanna010/Freyanna010/blob/main/git-title.png?raw=true" />
@@ -71,4 +71,4 @@
 > <em>“If you can’t explain what your program is doing, you’re not ready to make the computer do it.”</em>   
 > <span style="color:#60c5ba">— Kathleen Booth</span>
 
-](url)
+
